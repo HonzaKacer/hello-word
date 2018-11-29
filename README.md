@@ -1,3 +1,4 @@
 # hello-word
-první repository
+
 Mám rád sladkosti
+Taky mám rád Myš z Ikei
